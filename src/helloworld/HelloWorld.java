@@ -15,6 +15,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("Long Time No See");
+       
         // TODO code application logic here
     }
 }
